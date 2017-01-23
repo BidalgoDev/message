@@ -1,5 +1,5 @@
 {
-    "name": "php-http/message",
+    "name": "bidalgodev/message",
     "description": "HTTP Message related tools",
     "license": "MIT",
     "keywords": ["message", "http", "psr-7"],
